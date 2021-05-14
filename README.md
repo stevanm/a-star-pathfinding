@@ -1,5 +1,5 @@
-# a_star_pathfinding
-A-Star-Simulation
+# A-star-pathfinding
+A* algorithm simulation
 
 Nakon prevodjenja komandom "make", program se moze pokrenuti na sledeci nacin:
 
